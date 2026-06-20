@@ -1,0 +1,4 @@
+.venv/
+.DS.Store
+.cache.sqlite
+preguntas.md
