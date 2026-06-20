@@ -1,0 +1,10 @@
+id, rut, nombre, apellido, genero, fecha_nacimiento, correo, telefono, direccion_vivienda, fecha_contratacion, tipo_contrato, activo, sueldo, jornada
+1, 21606429-1, David, baez, hombre, 03-04-2004, david@gmail.com, 111111111, av javiera carrera 045, 02/05/25, indefinido, si, 100.000, completa
+02, 11.111.111-1, Maria, Gonzalez, femenino, 15/08/1995, maria.gonzalez@gmail.com, 987654321, calle san martin 789, 10-01-24, indefinido, Si, 120.000, completa
+03, 178923452, carlos, muñoz, masculino, 22/11/92, carlos.munoz@gmail.com, 976543210, av alemania 1020, 15/03/23, plazo fijo, si, 110.000, completa
+4, 20345678-9, Ana, rojas, mujer, 05-05-2001, ana.rojas@gmail.com, 965432109, Las Heras 455, 01/06/25, indefinido, SI, 80.000, media
+5, 18567123k, jose, Pinto, hombre, 30-09-94, jose.pinto@gmail.com, 954321098, ohiggins 123, 12/12/22, indefinido, no, 100.000, completa
+6, 19.456.789-2, Camila, Soto, femenino, 14/02/1998, camila.soto@gmail.com, 943210987, av prat 567, 20-04-24, indefinido, si, 95.000, completa
+7, 15.890.123-k, Luis, Tapia, masculino, 22-07-90, luis@gmail.com, 932109876, calle bulnes 890, 15/10/22, indefinido, Si, 110.000, completa
+8, 17654321-4, Francisca, Silva, mujer, 05/11/2002, francisca.silva@gmail.com, 921098765, vicuña mackenna 432, 02/02/25, plazo fijo, si, 85.000, media
+9, 21.345.678-9, Pedro, Morales, hombre, 12-10-95, pedro.morales@gmail.com, 910987654, av alemania 1500, 18-08-23, indefinido, SI, 105.000, completa
