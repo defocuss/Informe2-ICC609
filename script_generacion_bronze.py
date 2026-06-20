@@ -151,6 +151,29 @@ def generar_fecha_hora_controlada():
     
     return fecha_hora_final
 
+# Funcion para agregar una nueva fila a los productos con el precio de venta, dejando asi el precio mas iva como el precio costo de compra
+
+def agregar_precio_venta(ruta_origen, ruta_destino):
+    df = pd.read_csv(ruta_origen, sep=';')
+    
+    precio_iva_limpio = (
+        df['Precio + IVA']
+        .astype(str)
+        .str.replace('$', '', regex=False)
+        .str.replace('.', '', regex=False)
+        .str.strip()
+    )
+
+    precio_iva_num = pd.to_numeric(precio_iva_limpio)
+ 
+    precio_venta_num = (((precio_iva_num * 2) + (precio_iva_num * 2 * 0.19))/10).round() * 10
+    
+    df['Precio venta'] = precio_venta_num.apply(lambda x: f" ${x:,.0f} ".replace(",", "."))
+    
+    df.to_csv(ruta_destino, sep=';', index=False, encoding='utf-8')
+    print(f"Nuevo archivo generado con éxito en: {ruta_destino}")
+
+
 def main():
 	if os.path.isfile("datasets/bronze_clientes.csv"):
 		os.remove("datasets/bronze_clientes.csv")  # Borrar clientes generados
@@ -171,4 +194,8 @@ def main():
 	return
 
 if __name__ == "__main__":
+	#ruta_original = "datasets/no_borrar/bronze_productos.csv"
+	#ruta_nueva = "datasets/no_borrar/bronze_productos_nuevo.csv"
+	#agregar_precio_venta(ruta_original, ruta_nueva)
+
 	main()
