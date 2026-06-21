@@ -76,10 +76,8 @@ def generar_datos_ventas(n_ventas: int):
 		fecha = generar_fecha_hora_controlada()
 		metodo_pago = fake.random_element(elements=('efectivo','efectivo','efectivo','debito','debito','debito','debito','debito','debito','transferencia','credito'))
 		factura = fake.random_element(elements=('si','no','no','no','no'))
-		rand_descuento = fake.random_int(min=5, max=90)
-		descuento = 0 if rand_descuento > 10 else rand_descuento
 
-
+		descuento = obtener_descuento(cliente_id)
 		total_inicial = generar_datos_detalle_venta(_id, fake)
 		total = total_inicial * (1 - descuento/100)
 
@@ -134,6 +132,27 @@ def obtener_datos_producto(fake: Faker):
 ###### utils #######
 ####################
 
+# Funcion para devolver el descuento a aplicar segun tipo de cliente. Si no es cliente
+# Se aplica 0, si es basico 10% y si es pro 15%
+
+def obtener_descuento(id_cliente: int):
+	df_clientes = pd.read_csv("datasets/bronze_clientes.csv")
+	membresias = dict(zip(df_clientes['id'], df_clientes['membresia'].str.lower()))
+
+	membresia = membresias.get(id_cliente, "ninguna")
+
+	if id_cliente > 0 and membresia in ('Basica','basica','BASICA'):
+		descuento = 10
+
+	if id_cliente > 0 and membresia in ('Pro','pro','PRO'):
+		descuento = 15
+
+	if id_cliente == 0:
+		descuento = 0
+
+	return descuento
+	
+
 # Funcion para generar un fecha y hora en formato correcto y aleatorio
 def generar_fecha_hora_controlada():
     fecha_base = Faker('es_CL').date_between(
@@ -152,7 +171,6 @@ def generar_fecha_hora_controlada():
     return fecha_hora_final
 
 # Funcion para agregar una nueva fila a los productos con el precio de venta, dejando asi el precio mas iva como el precio costo de compra
-
 def agregar_precio_venta(ruta_origen, ruta_destino):
     df = pd.read_csv(ruta_origen, sep=';')
     
