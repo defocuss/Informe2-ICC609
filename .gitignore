@@ -1,4 +1,5 @@
 .venv/
-.DS.Store
+.DS_Store
 .cache.sqlite
 preguntas.md
+Guia_Informe_2.pdf

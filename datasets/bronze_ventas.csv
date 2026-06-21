@@ -1,0 +1,501 @@
+id,id_cliente,id_vendedor,tienda,fecha,metodo_pago,factura,descuento,total
+1,0,7,Pedro Salinas 0295,2020-03-16 11:30:22,efectivo,no,0,157620
+2,0,5,Hayden 102,2020-08-11 18:06:21,efectivo,no,0,148530
+3,0,2,Pedro Salinas 0295,2021-04-22 12:03:20,debito,si,0,1856010
+4,0,3,Hayden 102,2023-05-10 15:47:28,debito,si,0,47440
+5,0,6,Av Javierra Carrera 045,2025-01-21 11:12:17,debito,si,0,95310
+6,0,9,Hayden 102,2022-12-22 12:05:16,credito,no,0,319720
+7,52,9,Hayden 102,2023-08-10 16:54:45,efectivo,no,10,764829
+8,0,7,Hayden 102,2023-03-25 13:01:44,credito,si,0,792120
+9,12,7,Hayden 102,2021-10-01 17:31:15,efectivo,no,15,136051
+10,8,4,Pedro Salinas 0295,2022-01-16 15:53:16,debito,no,10,148662
+11,0,6,Hayden 102,2022-08-03 15:02:23,debito,si,0,371770
+12,0,2,Av Javierra Carrera 045,2020-01-19 16:58:06,debito,no,0,260260
+13,0,8,Pedro Salinas 0295,2021-03-22 15:56:24,debito,no,0,622190
+14,23,2,Av Javierra Carrera 045,2025-10-09 12:05:13,debito,no,15,43138
+15,0,7,Hayden 102,2023-01-09 13:40:55,debito,no,0,764460
+16,0,7,Hayden 102,2021-05-05 18:58:37,efectivo,no,0,365080
+17,0,7,Av Javierra Carrera 045,2020-11-09 15:16:12,debito,no,0,811990
+18,63,4,Av Javierra Carrera 045,2023-10-01 09:45:34,transferencia,no,15,6394924
+19,0,1,Av Javierra Carrera 045,2022-03-15 10:40:15,debito,no,0,231920
+20,26,1,Hayden 102,2020-01-26 09:31:02,credito,si,10,1385289
+21,0,6,Hayden 102,2024-03-11 17:02:37,debito,no,0,163210
+22,0,2,Pedro Salinas 0295,2024-09-22 14:35:06,debito,no,0,26560
+23,0,8,Hayden 102,2024-04-04 12:26:27,transferencia,no,0,7190
+24,0,7,Pedro Salinas 0295,2020-05-23 15:29:01,debito,no,0,725490
+25,0,1,Pedro Salinas 0295,2023-09-07 17:36:20,debito,si,0,202480
+26,0,1,Av Javierra Carrera 045,2023-11-05 14:08:36,efectivo,no,0,790200
+27,0,4,Hayden 102,2023-09-21 09:55:19,debito,no,0,1043300
+28,0,4,Av Javierra Carrera 045,2020-12-16 13:04:36,debito,no,0,4007300
+29,0,7,Av Javierra Carrera 045,2023-09-16 09:51:17,debito,si,0,19110
+30,0,9,Hayden 102,2024-09-15 17:51:56,debito,no,0,299370
+31,0,9,Hayden 102,2021-09-27 16:00:30,debito,si,0,166730
+32,0,9,Pedro Salinas 0295,2020-04-15 11:52:35,debito,no,0,166490
+33,0,6,Hayden 102,2025-08-27 11:21:35,debito,no,0,250920
+34,31,4,Pedro Salinas 0295,2022-04-14 13:04:23,credito,no,15,2400102
+35,69,8,Pedro Salinas 0295,2025-12-30 10:00:42,efectivo,no,10,797274
+36,0,8,Hayden 102,2023-05-20 17:25:13,debito,no,0,105110
+37,31,9,Hayden 102,2024-11-16 16:02:02,debito,no,15,1768332
+38,36,1,Hayden 102,2020-04-13 17:54:05,efectivo,si,10,1631835
+39,3,7,Hayden 102,2020-10-02 09:48:11,debito,no,10,243324
+40,38,5,Av Javierra Carrera 045,2024-03-22 13:27:18,credito,no,15,401906
+41,0,2,Pedro Salinas 0295,2024-09-24 11:27:38,debito,no,0,753330
+42,62,8,Hayden 102,2024-11-30 12:26:54,efectivo,no,10,55512
+43,0,3,Pedro Salinas 0295,2025-09-23 14:22:06,transferencia,no,0,347430
+44,0,2,Pedro Salinas 0295,2022-05-12 14:55:57,credito,si,0,15330
+45,0,8,Hayden 102,2024-08-31 15:27:22,efectivo,no,0,839090
+46,2,1,Hayden 102,2023-04-07 18:05:47,debito,no,15,330846
+47,0,5,Pedro Salinas 0295,2023-10-02 10:33:21,debito,no,0,17040
+48,0,8,Pedro Salinas 0295,2024-10-22 12:40:37,transferencia,no,0,209560
+49,0,1,Hayden 102,2022-11-25 10:13:16,efectivo,no,0,505790
+50,0,9,Hayden 102,2023-01-23 10:17:20,efectivo,no,0,415360
+51,18,5,Av Javierra Carrera 045,2022-07-27 16:47:02,efectivo,si,10,832482
+52,6,6,Av Javierra Carrera 045,2025-10-18 09:23:37,credito,no,15,485452
+53,63,2,Pedro Salinas 0295,2022-01-22 17:14:52,credito,no,15,408672
+54,0,9,Av Javierra Carrera 045,2022-07-06 12:26:03,debito,no,0,6410
+55,0,5,Pedro Salinas 0295,2023-11-19 16:48:24,debito,no,0,2899300
+56,0,2,Pedro Salinas 0295,2020-08-13 18:08:58,debito,no,0,250870
+57,0,3,Pedro Salinas 0295,2023-05-13 14:09:33,efectivo,si,0,260710
+58,58,4,Av Javierra Carrera 045,2023-04-05 12:26:05,debito,no,15,343196
+59,78,9,Pedro Salinas 0295,2022-10-16 15:49:59,credito,no,10,251757
+60,49,6,Av Javierra Carrera 045,2021-11-03 11:34:58,debito,no,15,1480470
+61,0,8,Hayden 102,2021-07-31 14:54:35,efectivo,no,0,311590
+62,0,9,Hayden 102,2021-07-26 17:08:42,debito,no,0,3482330
+63,99,1,Hayden 102,2021-05-03 12:09:18,debito,si,10,160272
+64,0,8,Av Javierra Carrera 045,2022-10-08 09:21:02,efectivo,no,0,558000
+65,0,6,Hayden 102,2025-01-25 11:56:50,debito,no,0,708330
+66,0,3,Hayden 102,2024-08-22 09:19:35,debito,no,0,2420
+67,90,3,Av Javierra Carrera 045,2022-04-05 10:46:56,efectivo,no,10,760356
+68,0,2,Pedro Salinas 0295,2025-06-07 16:06:07,efectivo,no,0,875490
+69,91,6,Av Javierra Carrera 045,2024-04-26 16:11:43,transferencia,no,15,546414
+70,46,2,Av Javierra Carrera 045,2021-06-08 16:02:09,debito,no,15,42891
+71,12,6,Pedro Salinas 0295,2020-08-31 17:49:18,transferencia,no,15,186142
+72,0,2,Hayden 102,2025-10-04 15:16:05,debito,no,0,614390
+73,0,8,Av Javierra Carrera 045,2022-09-05 10:49:42,debito,si,0,35530
+74,100,9,Pedro Salinas 0295,2024-01-14 16:31:02,debito,no,10,523575
+75,0,1,Pedro Salinas 0295,2020-07-07 17:31:23,debito,si,0,1904030
+76,0,6,Pedro Salinas 0295,2025-01-05 14:18:41,efectivo,no,0,815250
+77,0,3,Hayden 102,2020-09-21 10:43:00,debito,no,0,126680
+78,0,9,Av Javierra Carrera 045,2023-02-01 09:58:44,efectivo,si,0,312470
+79,86,3,Pedro Salinas 0295,2020-02-06 18:41:22,debito,si,10,107046
+80,18,2,Pedro Salinas 0295,2020-04-08 14:35:06,credito,si,10,228645
+81,0,1,Av Javierra Carrera 045,2025-05-02 10:39:36,credito,no,0,113700
+82,0,1,Pedro Salinas 0295,2020-09-26 18:35:47,transferencia,no,0,851400
+83,45,8,Av Javierra Carrera 045,2023-06-02 12:14:42,debito,si,15,3556732
+84,0,5,Hayden 102,2025-08-03 13:53:01,efectivo,no,0,91000
+85,0,5,Hayden 102,2021-10-26 18:52:08,debito,no,0,68860
+86,23,8,Hayden 102,2025-03-21 12:00:07,debito,no,15,461839
+87,0,4,Av Javierra Carrera 045,2022-06-30 18:16:35,debito,no,0,5620
+88,0,4,Hayden 102,2024-12-27 10:24:32,efectivo,no,0,10440
+89,0,1,Av Javierra Carrera 045,2024-10-19 12:31:21,debito,no,0,1597300
+90,68,1,Pedro Salinas 0295,2020-05-25 18:30:50,debito,no,10,283113
+91,0,1,Hayden 102,2024-07-25 16:41:48,debito,no,0,51100
+92,0,7,Hayden 102,2024-03-20 18:41:44,debito,no,0,1253800
+93,3,9,Hayden 102,2022-03-04 11:33:53,debito,no,10,152064
+94,0,8,Pedro Salinas 0295,2022-11-15 09:03:24,efectivo,no,0,699860
+95,13,4,Hayden 102,2025-03-30 18:03:35,debito,no,10,505485
+96,0,8,Hayden 102,2024-12-10 14:25:39,transferencia,no,0,133650
+97,0,1,Hayden 102,2023-05-08 10:42:19,debito,no,0,313450
+98,90,2,Pedro Salinas 0295,2021-01-25 12:26:11,debito,no,10,327429
+99,0,8,Pedro Salinas 0295,2022-10-10 18:57:41,debito,si,0,423100
+100,57,7,Hayden 102,2025-03-31 12:36:29,debito,no,10,112221
+101,0,9,Hayden 102,2023-10-26 15:41:40,efectivo,no,0,412450
+102,0,2,Hayden 102,2025-05-16 14:26:34,efectivo,si,0,475880
+103,64,1,Pedro Salinas 0295,2024-11-13 12:17:16,efectivo,no,10,1846116
+104,95,6,Av Javierra Carrera 045,2021-08-12 12:33:20,efectivo,no,10,7101
+105,0,6,Pedro Salinas 0295,2020-09-12 18:30:40,efectivo,no,0,411590
+106,81,4,Av Javierra Carrera 045,2025-08-16 11:22:05,debito,no,10,625563
+107,50,4,Hayden 102,2023-05-03 10:10:50,debito,no,10,515619
+108,0,9,Pedro Salinas 0295,2024-12-22 16:13:45,efectivo,no,0,952740
+109,0,6,Hayden 102,2021-09-28 18:14:44,debito,no,0,67760
+110,82,6,Hayden 102,2024-06-18 09:05:21,credito,no,10,134685
+111,0,7,Hayden 102,2022-03-18 13:02:31,debito,si,0,547860
+112,0,7,Pedro Salinas 0295,2024-03-17 15:53:52,debito,no,0,496160
+113,25,7,Pedro Salinas 0295,2020-07-06 13:44:54,credito,no,10,1362501
+114,95,4,Hayden 102,2022-04-03 14:43:01,efectivo,no,10,332190
+115,67,1,Hayden 102,2020-02-06 16:16:52,debito,no,15,313114
+116,49,9,Hayden 102,2024-11-23 14:46:19,debito,si,15,202224
+117,0,3,Hayden 102,2024-10-20 18:38:34,transferencia,no,0,159390
+118,29,6,Av Javierra Carrera 045,2023-01-06 12:18:40,debito,no,10,124092
+119,56,6,Hayden 102,2022-03-24 09:44:06,debito,si,10,7965
+120,21,6,Pedro Salinas 0295,2020-02-04 13:21:38,debito,no,15,364752
+121,0,4,Hayden 102,2022-10-20 10:24:05,debito,no,0,1283660
+122,0,2,Hayden 102,2021-09-10 11:13:06,transferencia,no,0,490210
+123,0,1,Hayden 102,2024-08-02 13:30:54,efectivo,no,0,42020
+124,0,5,Pedro Salinas 0295,2022-03-25 14:31:13,debito,no,0,164640
+125,86,9,Av Javierra Carrera 045,2025-06-21 12:23:59,debito,si,10,979029
+126,87,1,Pedro Salinas 0295,2024-07-16 15:19:24,efectivo,no,10,591372
+127,13,1,Hayden 102,2020-08-27 13:11:37,debito,no,10,223371
+128,0,2,Av Javierra Carrera 045,2020-05-14 12:55:27,debito,no,0,81100
+129,24,5,Pedro Salinas 0295,2024-03-14 13:10:08,efectivo,no,15,241842
+130,39,1,Av Javierra Carrera 045,2021-06-28 18:02:31,efectivo,no,10,2932722
+131,0,1,Av Javierra Carrera 045,2023-10-10 12:39:14,debito,no,0,6990
+132,96,6,Pedro Salinas 0295,2025-03-16 13:41:56,efectivo,no,10,777240
+133,0,6,Av Javierra Carrera 045,2024-08-09 09:27:22,transferencia,no,0,2526620
+134,0,6,Hayden 102,2022-09-26 14:59:26,credito,no,0,176830
+135,52,6,Pedro Salinas 0295,2020-03-20 14:00:36,debito,no,10,194382
+136,15,9,Hayden 102,2025-03-06 12:26:25,debito,no,10,108900
+137,86,1,Pedro Salinas 0295,2022-12-28 15:21:03,debito,si,10,280584
+138,0,6,Av Javierra Carrera 045,2024-04-28 12:27:26,debito,no,0,34710
+139,0,8,Av Javierra Carrera 045,2022-06-09 15:05:02,efectivo,no,0,201270
+140,75,5,Pedro Salinas 0295,2023-01-15 17:55:03,debito,no,15,419330
+141,0,8,Pedro Salinas 0295,2023-10-21 15:10:10,efectivo,no,0,561490
+142,0,4,Av Javierra Carrera 045,2021-07-24 16:21:56,efectivo,no,0,785450
+143,48,9,Pedro Salinas 0295,2025-05-13 17:53:42,credito,si,10,93348
+144,0,9,Pedro Salinas 0295,2022-08-01 18:08:05,debito,si,0,1862320
+145,0,4,Hayden 102,2022-09-04 17:02:46,debito,no,0,12400
+146,0,7,Hayden 102,2025-04-01 15:43:55,debito,no,0,107740
+147,0,8,Av Javierra Carrera 045,2025-09-12 16:08:52,efectivo,si,0,256140
+148,0,5,Pedro Salinas 0295,2021-09-30 13:57:01,efectivo,no,0,494790
+149,0,9,Av Javierra Carrera 045,2024-10-19 10:49:39,debito,no,0,78470
+150,91,8,Av Javierra Carrera 045,2022-06-01 09:19:57,debito,no,15,42594
+151,53,4,Pedro Salinas 0295,2025-07-04 17:56:29,efectivo,no,10,1583847
+152,57,2,Av Javierra Carrera 045,2025-12-24 14:25:08,efectivo,no,10,304650
+153,0,7,Hayden 102,2020-10-13 15:33:26,debito,no,0,393080
+154,0,1,Av Javierra Carrera 045,2020-08-06 18:43:14,debito,no,0,325250
+155,33,3,Pedro Salinas 0295,2024-05-01 10:46:59,transferencia,no,10,187281
+156,0,3,Av Javierra Carrera 045,2020-08-30 13:09:44,debito,no,0,517070
+157,0,1,Hayden 102,2023-05-16 17:34:47,credito,no,0,414140
+158,88,5,Pedro Salinas 0295,2025-12-07 10:50:31,debito,no,15,131172
+159,0,5,Av Javierra Carrera 045,2023-10-06 17:13:32,efectivo,si,0,1274060
+160,0,8,Pedro Salinas 0295,2023-04-30 12:42:47,debito,no,0,157710
+161,0,7,Hayden 102,2025-07-16 18:00:48,efectivo,si,0,212380
+162,24,7,Av Javierra Carrera 045,2023-04-21 15:40:14,credito,no,15,2024462
+163,0,2,Pedro Salinas 0295,2025-08-17 17:37:41,debito,no,0,61440
+164,29,5,Hayden 102,2023-12-02 10:05:47,efectivo,no,10,986544
+165,0,3,Pedro Salinas 0295,2022-05-12 17:21:05,efectivo,no,0,252810
+166,27,8,Pedro Salinas 0295,2022-11-13 14:56:10,debito,no,15,8670
+167,0,2,Av Javierra Carrera 045,2020-03-20 09:45:31,efectivo,no,0,2823650
+168,0,1,Av Javierra Carrera 045,2023-12-10 14:38:38,efectivo,no,0,1874070
+169,33,5,Av Javierra Carrera 045,2024-03-26 17:46:06,efectivo,no,10,1185480
+170,0,7,Av Javierra Carrera 045,2024-07-09 12:50:55,debito,no,0,238490
+171,36,2,Av Javierra Carrera 045,2022-03-01 10:03:39,efectivo,no,10,42858
+172,0,9,Hayden 102,2020-01-11 11:07:03,debito,no,0,23070
+173,0,9,Hayden 102,2021-12-23 11:07:01,efectivo,no,0,426350
+174,75,5,Av Javierra Carrera 045,2023-09-05 12:51:41,credito,si,15,30098
+175,0,8,Pedro Salinas 0295,2021-06-23 11:28:40,efectivo,no,0,126340
+176,4,6,Pedro Salinas 0295,2024-08-10 17:36:55,efectivo,si,10,267660
+177,0,1,Av Javierra Carrera 045,2023-07-26 13:49:44,transferencia,no,0,822250
+178,0,5,Pedro Salinas 0295,2022-05-10 09:47:28,efectivo,si,0,93200
+179,0,7,Hayden 102,2023-01-26 14:33:39,debito,no,0,415360
+180,0,2,Pedro Salinas 0295,2025-07-09 13:53:32,transferencia,no,0,260220
+181,0,8,Hayden 102,2020-02-15 15:08:03,credito,no,0,1056730
+182,66,9,Hayden 102,2020-12-15 11:19:26,debito,si,15,51408
+183,65,2,Av Javierra Carrera 045,2023-07-29 13:28:53,debito,no,10,3797316
+184,0,8,Pedro Salinas 0295,2022-12-15 13:40:58,credito,si,0,858030
+185,24,6,Hayden 102,2022-03-22 17:52:55,efectivo,no,15,617848
+186,17,1,Hayden 102,2021-02-10 09:11:50,debito,no,10,276777
+187,52,7,Hayden 102,2022-02-10 18:14:59,debito,no,10,1181295
+188,93,8,Av Javierra Carrera 045,2023-11-27 12:20:59,debito,no,10,303390
+189,0,4,Hayden 102,2020-11-24 09:47:42,debito,no,0,86210
+190,0,8,Hayden 102,2025-04-24 12:28:17,debito,no,0,256950
+191,0,9,Av Javierra Carrera 045,2023-09-30 14:11:55,efectivo,no,0,1720720
+192,19,5,Av Javierra Carrera 045,2023-11-08 11:38:46,credito,no,10,1594188
+193,68,1,Av Javierra Carrera 045,2024-12-18 09:57:01,transferencia,no,10,1349613
+194,0,6,Av Javierra Carrera 045,2021-10-28 11:22:12,efectivo,si,0,1012200
+195,90,8,Av Javierra Carrera 045,2022-12-03 09:29:16,credito,no,10,585558
+196,6,2,Av Javierra Carrera 045,2022-10-15 11:23:45,debito,no,15,2674670
+197,0,3,Hayden 102,2022-07-08 14:41:29,efectivo,si,0,2148630
+198,0,5,Pedro Salinas 0295,2023-05-07 12:45:03,debito,no,0,134710
+199,42,1,Av Javierra Carrera 045,2021-01-09 15:30:57,credito,no,15,110330
+200,0,2,Hayden 102,2023-05-02 09:50:16,efectivo,si,0,4266650
+201,0,7,Pedro Salinas 0295,2021-03-07 18:57:49,debito,no,0,168150
+202,0,9,Av Javierra Carrera 045,2024-09-17 10:23:23,debito,no,0,229440
+203,0,9,Hayden 102,2025-04-26 14:26:54,debito,no,0,1778970
+204,0,9,Av Javierra Carrera 045,2023-10-12 09:21:20,efectivo,no,0,4168690
+205,79,7,Pedro Salinas 0295,2024-07-27 10:44:43,debito,no,10,460989
+206,92,3,Hayden 102,2025-11-02 09:42:15,debito,no,15,26630
+207,83,8,Hayden 102,2025-07-14 10:01:57,efectivo,no,10,54063
+208,46,8,Av Javierra Carrera 045,2025-04-11 18:45:54,transferencia,no,15,920678
+209,0,5,Pedro Salinas 0295,2024-02-04 11:24:42,efectivo,si,0,337230
+210,0,6,Pedro Salinas 0295,2023-04-05 18:05:38,debito,no,0,491760
+211,27,9,Av Javierra Carrera 045,2021-08-10 13:37:57,debito,no,15,133484
+212,1,3,Pedro Salinas 0295,2024-10-28 16:16:03,transferencia,no,10,501219
+213,0,9,Hayden 102,2021-03-31 16:20:52,debito,no,0,11040
+214,0,7,Hayden 102,2024-09-26 11:19:00,efectivo,no,0,678310
+215,31,9,Av Javierra Carrera 045,2022-07-08 10:34:53,transferencia,no,15,722364
+216,0,8,Av Javierra Carrera 045,2021-10-30 16:17:30,debito,no,0,198260
+217,0,9,Hayden 102,2020-12-26 16:31:19,efectivo,no,0,214630
+218,0,8,Av Javierra Carrera 045,2024-04-02 14:34:12,debito,no,0,199410
+219,0,8,Av Javierra Carrera 045,2025-05-25 13:01:55,debito,si,0,72670
+220,40,4,Hayden 102,2025-03-12 15:57:12,efectivo,no,10,0
+221,71,1,Av Javierra Carrera 045,2025-07-24 16:02:55,debito,no,10,854820
+222,0,2,Pedro Salinas 0295,2020-01-05 18:10:14,efectivo,no,0,261150
+223,24,4,Hayden 102,2023-09-24 16:32:25,efectivo,no,15,151895
+224,0,3,Av Javierra Carrera 045,2025-12-26 15:23:04,debito,si,0,141990
+225,8,3,Hayden 102,2021-09-25 10:22:21,debito,no,10,551889
+226,0,1,Pedro Salinas 0295,2023-12-08 11:37:25,debito,no,0,713730
+227,0,6,Hayden 102,2025-12-04 16:25:44,debito,si,0,4961740
+228,0,4,Av Javierra Carrera 045,2020-05-25 13:03:20,debito,no,0,611460
+229,81,4,Hayden 102,2021-02-07 12:12:22,debito,no,10,855621
+230,81,2,Pedro Salinas 0295,2025-02-25 15:46:13,efectivo,no,10,460206
+231,0,2,Av Javierra Carrera 045,2020-08-08 10:42:39,debito,no,0,200900
+232,0,1,Av Javierra Carrera 045,2021-01-29 15:03:24,debito,no,0,177950
+233,43,3,Av Javierra Carrera 045,2023-09-01 18:56:57,debito,si,10,86670
+234,0,4,Hayden 102,2024-01-15 17:31:50,debito,si,0,138240
+235,0,6,Hayden 102,2021-02-24 14:05:58,efectivo,no,0,97550
+236,0,1,Av Javierra Carrera 045,2023-02-26 11:15:56,efectivo,no,0,744090
+237,50,4,Av Javierra Carrera 045,2021-10-17 09:28:15,transferencia,no,10,879003
+238,4,2,Hayden 102,2023-03-19 13:16:32,debito,no,10,723492
+239,0,6,Pedro Salinas 0295,2024-05-19 13:50:02,debito,no,0,381960
+240,0,7,Av Javierra Carrera 045,2023-06-08 16:53:59,efectivo,no,0,6600
+241,0,3,Hayden 102,2022-05-20 17:23:11,debito,no,0,362150
+242,32,8,Pedro Salinas 0295,2021-07-24 17:59:02,debito,no,15,220872
+243,0,2,Pedro Salinas 0295,2025-11-07 13:00:59,credito,no,0,70000
+244,60,8,Av Javierra Carrera 045,2021-03-21 13:16:43,transferencia,no,15,2043162
+245,0,4,Pedro Salinas 0295,2020-07-06 12:11:26,efectivo,no,0,86590
+246,0,1,Pedro Salinas 0295,2021-11-21 14:37:09,debito,no,0,776590
+247,20,1,Av Javierra Carrera 045,2020-04-05 16:31:20,debito,si,15,357680
+248,48,3,Av Javierra Carrera 045,2022-01-28 09:39:37,debito,si,10,82845
+249,0,3,Pedro Salinas 0295,2022-07-22 09:50:06,debito,si,0,5920
+250,87,8,Hayden 102,2023-03-01 12:38:49,efectivo,si,10,1317213
+251,83,1,Hayden 102,2022-08-24 09:59:09,efectivo,no,10,1837782
+252,33,2,Av Javierra Carrera 045,2022-05-09 13:55:37,efectivo,no,10,1644822
+253,53,2,Hayden 102,2020-03-11 15:15:22,credito,no,10,1256004
+254,0,1,Av Javierra Carrera 045,2021-05-15 13:06:04,transferencia,no,0,50820
+255,0,7,Hayden 102,2020-12-16 12:34:38,efectivo,no,0,14910
+256,0,6,Hayden 102,2025-09-20 10:46:52,efectivo,no,0,20700
+257,0,1,Pedro Salinas 0295,2022-03-04 10:18:45,debito,no,0,165200
+258,0,7,Pedro Salinas 0295,2022-11-24 10:19:52,debito,no,0,16520
+259,61,3,Hayden 102,2023-12-13 15:04:33,debito,si,15,2682728
+260,44,5,Hayden 102,2025-01-25 13:33:04,efectivo,no,15,329978
+261,0,8,Pedro Salinas 0295,2023-08-16 09:35:45,debito,no,0,621590
+262,0,5,Pedro Salinas 0295,2021-12-15 13:03:42,debito,no,0,2333590
+263,65,3,Pedro Salinas 0295,2021-11-11 11:01:05,credito,si,10,591003
+264,30,1,Av Javierra Carrera 045,2022-10-21 12:45:29,debito,no,10,1814004
+265,7,3,Pedro Salinas 0295,2020-08-28 17:57:26,credito,no,10,283554
+266,0,2,Hayden 102,2021-02-17 14:28:31,debito,no,0,50350
+267,0,3,Pedro Salinas 0295,2020-08-31 14:38:39,efectivo,no,0,353500
+268,0,2,Hayden 102,2022-01-01 12:57:32,debito,si,0,3463600
+269,65,6,Pedro Salinas 0295,2022-12-07 11:34:12,debito,no,10,226638
+270,0,2,Av Javierra Carrera 045,2021-11-09 13:15:07,transferencia,si,0,134860
+271,0,9,Pedro Salinas 0295,2020-03-22 14:22:17,debito,no,0,291780
+272,0,6,Pedro Salinas 0295,2022-03-12 16:26:12,debito,no,0,524010
+273,0,9,Av Javierra Carrera 045,2025-05-03 11:00:45,debito,no,0,210980
+274,0,6,Hayden 102,2023-01-21 17:24:15,efectivo,si,0,1711550
+275,0,4,Av Javierra Carrera 045,2025-09-19 10:10:02,debito,si,0,51570
+276,0,1,Pedro Salinas 0295,2020-02-04 10:27:29,efectivo,no,0,1107470
+277,0,4,Pedro Salinas 0295,2024-12-05 14:37:54,debito,no,0,1174690
+278,0,1,Hayden 102,2021-10-05 12:54:47,debito,no,0,530840
+279,24,7,Av Javierra Carrera 045,2023-12-10 10:05:45,efectivo,no,15,151224
+280,74,1,Hayden 102,2025-02-20 17:43:13,debito,no,15,378250
+281,21,2,Pedro Salinas 0295,2023-06-26 13:34:33,credito,no,15,820598
+282,61,3,Av Javierra Carrera 045,2022-06-17 13:27:37,debito,no,15,134589
+283,9,8,Av Javierra Carrera 045,2022-02-10 10:55:18,debito,no,10,382455
+284,0,4,Hayden 102,2020-10-27 10:32:01,debito,si,0,68800
+285,0,8,Av Javierra Carrera 045,2025-04-10 12:29:13,debito,no,0,811530
+286,28,6,Pedro Salinas 0295,2020-09-30 11:14:13,debito,no,15,210604
+287,57,7,Av Javierra Carrera 045,2024-02-06 16:16:54,efectivo,no,10,2460465
+288,0,2,Av Javierra Carrera 045,2023-03-11 17:53:23,credito,no,0,470930
+289,0,7,Pedro Salinas 0295,2020-06-18 14:49:41,credito,no,0,1534480
+290,81,2,Pedro Salinas 0295,2025-08-13 09:33:07,efectivo,no,10,547038
+291,0,4,Pedro Salinas 0295,2025-06-06 10:49:17,debito,no,0,31800
+292,0,4,Hayden 102,2020-04-16 18:44:24,debito,no,0,607070
+293,40,9,Av Javierra Carrera 045,2023-09-05 13:04:22,debito,no,10,112401
+294,36,8,Pedro Salinas 0295,2021-04-10 14:01:37,transferencia,no,10,130833
+295,41,3,Hayden 102,2021-10-21 18:18:13,debito,no,15,163744
+296,0,7,Av Javierra Carrera 045,2023-05-06 12:11:53,transferencia,no,0,51920
+297,22,9,Av Javierra Carrera 045,2021-12-20 18:50:33,debito,no,10,143982
+298,0,9,Hayden 102,2023-07-05 17:23:38,debito,no,0,1745340
+299,0,2,Av Javierra Carrera 045,2021-08-16 18:44:06,efectivo,no,0,406500
+300,42,3,Pedro Salinas 0295,2022-10-22 15:17:33,debito,no,15,971882
+301,75,6,Av Javierra Carrera 045,2023-03-22 14:05:47,debito,no,15,42126
+302,7,9,Av Javierra Carrera 045,2024-06-13 13:12:52,transferencia,no,10,97137
+303,0,3,Av Javierra Carrera 045,2022-09-07 16:01:41,debito,si,0,868570
+304,11,6,Av Javierra Carrera 045,2024-06-20 15:05:21,debito,no,10,183321
+305,0,5,Hayden 102,2024-03-07 14:07:32,debito,si,0,406680
+306,86,5,Pedro Salinas 0295,2025-02-12 17:36:17,debito,no,10,1589553
+307,13,4,Av Javierra Carrera 045,2023-09-13 16:54:12,debito,no,10,354339
+308,20,5,Pedro Salinas 0295,2021-11-20 12:57:55,debito,si,15,277491
+309,63,5,Pedro Salinas 0295,2021-06-14 18:00:33,efectivo,no,15,131640
+310,9,4,Pedro Salinas 0295,2022-11-17 18:10:15,debito,no,10,760995
+311,0,2,Pedro Salinas 0295,2020-04-05 10:28:04,debito,si,0,229380
+312,0,8,Av Javierra Carrera 045,2025-02-15 14:11:34,efectivo,no,0,114790
+313,0,3,Hayden 102,2025-01-26 15:23:31,debito,no,0,53150
+314,92,6,Av Javierra Carrera 045,2022-09-16 16:05:07,efectivo,no,15,94248
+315,0,7,Pedro Salinas 0295,2025-10-09 09:58:50,debito,no,0,964710
+316,0,1,Av Javierra Carrera 045,2023-02-06 16:53:32,debito,no,0,1587460
+317,0,9,Hayden 102,2021-06-08 10:16:31,debito,si,0,9410
+318,0,8,Hayden 102,2020-07-21 16:10:10,efectivo,no,0,100610
+319,0,9,Pedro Salinas 0295,2023-02-14 14:41:00,debito,no,0,17000
+320,0,5,Pedro Salinas 0295,2024-07-26 17:28:38,debito,si,0,72660
+321,69,6,Hayden 102,2025-11-04 09:27:48,debito,si,10,1018053
+322,64,4,Av Javierra Carrera 045,2020-03-05 14:27:40,debito,no,10,3521277
+323,80,5,Pedro Salinas 0295,2024-07-25 09:25:34,debito,no,15,364590
+324,5,1,Av Javierra Carrera 045,2020-04-24 17:35:36,debito,no,15,1439322
+325,0,3,Hayden 102,2022-10-19 13:44:42,transferencia,no,0,138900
+326,0,6,Hayden 102,2024-03-15 12:31:41,efectivo,no,0,163140
+327,94,9,Pedro Salinas 0295,2023-05-17 11:44:12,debito,no,10,488313
+328,0,8,Hayden 102,2022-01-05 16:34:46,debito,no,0,48250
+329,61,3,Av Javierra Carrera 045,2022-09-21 16:18:57,credito,si,15,2014602
+330,0,9,Hayden 102,2023-08-12 15:35:05,debito,no,0,121810
+331,39,5,Hayden 102,2025-09-25 15:20:26,efectivo,no,10,1672758
+332,70,9,Hayden 102,2021-09-27 09:11:17,debito,si,15,420742
+333,0,5,Hayden 102,2021-11-19 17:34:56,debito,no,0,334420
+334,0,4,Pedro Salinas 0295,2022-03-04 09:56:33,debito,no,0,538190
+335,0,6,Hayden 102,2022-08-03 16:29:55,debito,no,0,328460
+336,0,3,Hayden 102,2021-07-03 10:20:18,debito,no,0,131130
+337,0,5,Hayden 102,2023-10-12 10:56:49,debito,no,0,2273970
+338,0,9,Av Javierra Carrera 045,2021-05-28 14:01:08,debito,no,0,7360
+339,47,3,Av Javierra Carrera 045,2025-12-27 13:50:04,debito,no,10,1833948
+340,19,1,Pedro Salinas 0295,2025-05-05 16:07:31,debito,no,10,893952
+341,95,6,Hayden 102,2025-03-15 11:41:04,debito,no,10,52137
+342,70,6,Av Javierra Carrera 045,2021-07-23 17:36:50,debito,no,15,1420852
+343,0,4,Pedro Salinas 0295,2020-03-27 18:27:26,efectivo,no,0,3280
+344,0,7,Av Javierra Carrera 045,2025-10-15 11:14:41,transferencia,no,0,188600
+345,0,1,Pedro Salinas 0295,2025-01-21 10:59:12,debito,no,0,314610
+346,0,2,Pedro Salinas 0295,2023-01-08 18:29:46,credito,no,0,271890
+347,0,4,Av Javierra Carrera 045,2021-02-17 18:01:09,credito,no,0,54040
+348,54,3,Av Javierra Carrera 045,2025-06-05 14:28:05,debito,no,10,732393
+349,0,1,Pedro Salinas 0295,2023-11-16 16:31:34,debito,no,0,183170
+350,55,6,Pedro Salinas 0295,2025-07-02 17:36:16,efectivo,si,15,466404
+351,44,2,Hayden 102,2021-08-19 14:10:35,efectivo,no,15,1769785
+352,0,6,Av Javierra Carrera 045,2021-11-05 18:26:13,efectivo,no,0,2980
+353,0,2,Av Javierra Carrera 045,2022-07-30 11:36:53,debito,no,0,486790
+354,0,9,Hayden 102,2021-10-31 18:00:50,debito,no,0,257120
+355,56,8,Av Javierra Carrera 045,2022-05-18 18:50:02,credito,no,10,717363
+356,0,8,Av Javierra Carrera 045,2020-02-17 14:52:23,credito,no,0,251240
+357,0,9,Hayden 102,2023-01-27 14:09:18,debito,no,0,549820
+358,48,2,Hayden 102,2025-12-27 14:15:49,transferencia,no,10,1179828
+359,0,1,Hayden 102,2023-03-26 10:35:49,debito,si,0,68140
+360,15,5,Av Javierra Carrera 045,2023-07-13 09:52:14,debito,si,10,1592262
+361,37,6,Av Javierra Carrera 045,2022-05-03 13:03:37,efectivo,no,15,34000
+362,44,7,Hayden 102,2022-11-27 11:42:07,debito,si,15,126692
+363,0,8,Av Javierra Carrera 045,2022-10-10 09:45:55,debito,si,0,159360
+364,0,6,Av Javierra Carrera 045,2020-09-01 12:05:59,debito,no,0,21240
+365,0,3,Hayden 102,2024-01-06 15:25:59,debito,no,0,130660
+366,50,9,Hayden 102,2022-07-08 10:03:30,debito,no,10,208485
+367,0,9,Hayden 102,2025-04-12 12:30:03,credito,si,0,23590
+368,64,2,Hayden 102,2021-06-25 17:48:59,efectivo,no,10,33291
+369,36,8,Pedro Salinas 0295,2023-01-10 14:40:32,efectivo,no,10,211104
+370,36,5,Hayden 102,2025-02-06 14:51:08,debito,no,10,17595
+371,0,1,Hayden 102,2024-04-19 18:21:01,efectivo,si,0,160390
+372,0,4,Hayden 102,2024-01-23 16:53:33,credito,no,0,612330
+373,0,9,Av Javierra Carrera 045,2020-06-13 13:37:01,efectivo,no,0,946320
+374,0,3,Av Javierra Carrera 045,2025-03-12 17:53:54,debito,no,0,289730
+375,46,5,Hayden 102,2021-09-20 18:03:15,credito,no,15,1164984
+376,0,7,Pedro Salinas 0295,2025-10-16 14:40:36,debito,no,0,26880
+377,0,2,Hayden 102,2023-03-14 18:45:50,efectivo,no,0,73350
+378,40,9,Pedro Salinas 0295,2021-08-11 17:21:57,efectivo,no,10,258057
+379,40,5,Pedro Salinas 0295,2024-04-13 09:48:20,credito,no,10,58428
+380,0,9,Pedro Salinas 0295,2023-03-06 15:45:10,debito,no,0,183760
+381,0,6,Pedro Salinas 0295,2021-07-10 17:00:36,debito,no,0,513140
+382,66,6,Av Javierra Carrera 045,2024-12-06 10:13:39,efectivo,si,15,279302
+383,31,2,Av Javierra Carrera 045,2022-03-27 14:12:50,debito,si,15,312010
+384,16,3,Hayden 102,2024-01-11 15:11:25,efectivo,no,10,150417
+385,0,8,Pedro Salinas 0295,2021-07-30 10:07:36,debito,si,0,67040
+386,82,6,Hayden 102,2024-04-26 14:01:20,debito,no,10,1396665
+387,0,2,Hayden 102,2025-05-20 15:29:02,debito,no,0,482160
+388,47,8,Av Javierra Carrera 045,2021-04-24 10:41:34,debito,no,10,36036
+389,85,4,Av Javierra Carrera 045,2023-05-21 13:05:39,debito,no,15,784440
+390,0,7,Av Javierra Carrera 045,2020-08-06 17:29:02,debito,no,0,351830
+391,78,9,Hayden 102,2024-07-12 12:50:02,debito,no,10,599895
+392,53,1,Av Javierra Carrera 045,2023-06-22 13:29:26,efectivo,no,10,117639
+393,0,6,Av Javierra Carrera 045,2025-06-03 09:20:02,transferencia,no,0,106020
+394,0,5,Pedro Salinas 0295,2025-08-06 12:57:12,transferencia,no,0,2311080
+395,0,4,Hayden 102,2024-05-24 16:18:53,debito,si,0,67480
+396,80,5,Hayden 102,2020-12-30 16:42:32,debito,no,15,67320
+397,0,1,Hayden 102,2024-12-13 18:08:01,debito,si,0,1270860
+398,0,7,Pedro Salinas 0295,2021-07-11 11:32:50,debito,no,0,1308120
+399,0,6,Hayden 102,2025-07-27 17:22:17,debito,no,0,6390
+400,64,7,Pedro Salinas 0295,2024-07-01 16:15:20,debito,si,10,207774
+401,0,5,Pedro Salinas 0295,2021-08-16 16:54:35,efectivo,si,0,226870
+402,94,8,Av Javierra Carrera 045,2024-08-08 18:55:03,credito,no,10,187596
+403,0,6,Av Javierra Carrera 045,2023-09-04 18:35:44,efectivo,no,0,4920
+404,0,4,Hayden 102,2023-11-19 15:14:08,efectivo,no,0,4126580
+405,0,9,Pedro Salinas 0295,2021-02-12 10:44:37,debito,no,0,624270
+406,0,3,Pedro Salinas 0295,2020-08-02 12:57:05,debito,no,0,59510
+407,4,9,Pedro Salinas 0295,2023-05-01 13:38:17,efectivo,no,10,609831
+408,0,6,Hayden 102,2020-04-02 09:31:00,debito,no,0,62370
+409,0,6,Pedro Salinas 0295,2024-08-27 17:49:26,debito,no,0,274140
+410,94,6,Hayden 102,2020-12-20 11:11:22,efectivo,no,10,200205
+411,0,4,Av Javierra Carrera 045,2024-05-17 15:35:15,debito,no,0,374820
+412,52,5,Hayden 102,2023-07-29 16:38:51,debito,no,10,2022858
+413,60,2,Pedro Salinas 0295,2023-07-29 17:23:32,debito,no,15,390558
+414,0,2,Av Javierra Carrera 045,2022-07-30 17:22:13,debito,no,0,2697110
+415,0,8,Av Javierra Carrera 045,2024-07-06 16:27:10,debito,no,0,3546900
+416,0,2,Hayden 102,2020-08-13 12:26:49,debito,no,0,556400
+417,81,2,Hayden 102,2025-10-11 13:26:43,transferencia,no,10,278001
+418,0,3,Hayden 102,2022-06-13 12:32:34,transferencia,no,0,163840
+419,0,8,Av Javierra Carrera 045,2020-06-04 13:54:42,debito,no,0,1043150
+420,1,1,Pedro Salinas 0295,2024-06-06 10:30:45,debito,no,10,261459
+421,2,5,Hayden 102,2020-07-12 12:34:12,debito,no,15,22134
+422,0,8,Pedro Salinas 0295,2023-09-08 10:31:53,efectivo,no,0,134640
+423,0,2,Pedro Salinas 0295,2020-02-05 10:31:36,debito,no,0,1356200
+424,0,1,Hayden 102,2020-04-04 13:32:38,transferencia,no,0,277470
+425,57,7,Av Javierra Carrera 045,2023-06-03 13:54:57,efectivo,si,10,1078812
+426,54,4,Pedro Salinas 0295,2025-05-20 12:57:10,debito,no,10,560556
+427,100,3,Hayden 102,2023-07-10 16:24:09,debito,no,10,49644
+428,94,9,Hayden 102,2024-07-06 10:22:21,debito,si,10,651609
+429,0,1,Hayden 102,2021-12-22 09:19:06,debito,si,0,2331730
+430,0,3,Av Javierra Carrera 045,2022-04-27 17:02:29,efectivo,no,0,584980
+431,48,1,Hayden 102,2023-02-18 16:55:04,debito,no,10,23427
+432,71,7,Pedro Salinas 0295,2023-06-08 14:45:38,transferencia,si,10,353961
+433,0,6,Av Javierra Carrera 045,2023-08-24 16:31:50,efectivo,no,0,1061940
+434,0,8,Hayden 102,2025-12-28 18:57:49,credito,no,0,280000
+435,0,7,Av Javierra Carrera 045,2021-05-12 14:37:21,debito,no,0,4170
+436,0,9,Pedro Salinas 0295,2021-03-17 11:52:56,transferencia,no,0,606990
+437,0,3,Hayden 102,2025-01-19 09:07:54,efectivo,no,0,164100
+438,3,3,Pedro Salinas 0295,2023-10-31 18:53:37,efectivo,no,10,1275678
+439,0,8,Av Javierra Carrera 045,2022-09-06 12:30:52,debito,no,0,3100330
+440,0,7,Av Javierra Carrera 045,2020-11-25 12:51:55,efectivo,no,0,39840
+441,1,3,Av Javierra Carrera 045,2020-03-22 14:33:28,credito,no,10,1090152
+442,0,4,Pedro Salinas 0295,2021-08-23 14:28:55,efectivo,si,0,1495690
+443,0,8,Av Javierra Carrera 045,2024-04-09 15:59:40,efectivo,no,0,119360
+444,0,4,Av Javierra Carrera 045,2022-01-13 09:43:26,debito,si,0,532050
+445,0,4,Pedro Salinas 0295,2021-06-22 12:01:55,efectivo,no,0,29440
+446,0,9,Hayden 102,2024-01-09 18:28:57,efectivo,no,0,297190
+447,0,5,Pedro Salinas 0295,2020-04-22 09:05:06,efectivo,si,0,85050
+448,0,1,Hayden 102,2024-08-03 14:22:52,efectivo,no,0,134520
+449,0,4,Av Javierra Carrera 045,2020-08-29 17:37:29,debito,no,0,35250
+450,0,4,Pedro Salinas 0295,2021-04-19 11:54:53,efectivo,no,0,660440
+451,0,7,Hayden 102,2025-05-25 15:05:50,debito,no,0,1289100
+452,0,1,Pedro Salinas 0295,2025-06-03 13:48:42,debito,si,0,118990
+453,0,7,Av Javierra Carrera 045,2025-08-23 17:49:41,debito,no,0,2346280
+454,99,4,Pedro Salinas 0295,2021-08-06 09:08:01,efectivo,no,10,107523
+455,0,2,Hayden 102,2021-09-03 15:59:12,efectivo,si,0,1240140
+456,86,5,Pedro Salinas 0295,2021-12-09 12:13:30,transferencia,no,10,414306
+457,0,6,Av Javierra Carrera 045,2024-05-07 15:32:43,debito,si,0,122260
+458,0,3,Hayden 102,2020-12-17 13:41:10,debito,si,0,135300
+459,0,6,Hayden 102,2021-12-10 18:56:23,debito,no,0,231060
+460,0,9,Av Javierra Carrera 045,2025-09-27 14:44:58,efectivo,no,0,392260
+461,0,1,Pedro Salinas 0295,2020-03-22 10:08:46,debito,no,0,19350
+462,0,1,Av Javierra Carrera 045,2020-06-22 11:06:57,credito,no,0,163760
+463,62,1,Pedro Salinas 0295,2021-07-04 11:33:51,debito,no,10,16920
+464,12,5,Hayden 102,2024-11-28 12:07:46,debito,no,15,289688
+465,77,2,Pedro Salinas 0295,2021-09-30 12:03:57,debito,no,15,1335877
+466,0,4,Av Javierra Carrera 045,2020-10-16 16:15:12,transferencia,si,0,9170060
+467,85,6,Av Javierra Carrera 045,2025-12-22 14:10:00,debito,no,15,696312
+468,50,3,Hayden 102,2020-12-07 10:08:59,efectivo,no,10,508176
+469,0,4,Hayden 102,2024-10-10 10:25:43,debito,si,0,68310
+470,69,4,Hayden 102,2023-04-09 12:39:57,debito,no,10,644958
+471,0,8,Pedro Salinas 0295,2023-04-02 11:12:28,efectivo,no,0,1735080
+472,47,7,Hayden 102,2024-01-25 17:57:10,debito,no,10,140949
+473,0,3,Pedro Salinas 0295,2022-01-31 17:21:28,efectivo,no,0,2400600
+474,71,3,Pedro Salinas 0295,2021-08-27 10:34:14,transferencia,no,10,466020
+475,60,3,Pedro Salinas 0295,2020-06-12 10:02:18,debito,no,15,13175
+476,0,2,Hayden 102,2020-11-16 11:59:16,efectivo,no,0,821080
+477,0,5,Hayden 102,2023-03-10 14:22:55,debito,no,0,829500
+478,0,1,Hayden 102,2020-02-13 18:34:43,debito,no,0,692180
+479,0,3,Pedro Salinas 0295,2021-10-05 15:42:38,debito,no,0,82150
+480,47,6,Pedro Salinas 0295,2024-06-30 18:06:24,debito,no,10,381186
+481,17,7,Av Javierra Carrera 045,2023-11-08 10:15:45,efectivo,no,10,176139
+482,0,3,Hayden 102,2020-03-10 09:30:50,transferencia,no,0,125870
+483,0,1,Hayden 102,2020-01-20 17:11:55,debito,no,0,112860
+484,0,9,Hayden 102,2022-12-27 15:59:04,debito,no,0,176950
+485,0,9,Pedro Salinas 0295,2022-09-12 18:33:00,debito,no,0,299020
+486,0,9,Hayden 102,2020-11-22 10:35:50,debito,no,0,44940
+487,44,9,Av Javierra Carrera 045,2025-05-12 13:58:19,debito,no,15,25168
+488,19,9,Pedro Salinas 0295,2023-12-24 09:59:09,debito,si,10,1692603
+489,0,2,Av Javierra Carrera 045,2022-10-10 15:10:47,debito,no,0,111330
+490,57,8,Hayden 102,2020-07-07 14:25:10,debito,no,10,405747
+491,0,2,Av Javierra Carrera 045,2025-05-29 11:27:52,debito,no,0,60790
+492,0,1,Pedro Salinas 0295,2020-08-15 17:48:50,debito,si,0,147630
+493,0,3,Hayden 102,2020-01-06 09:44:10,debito,no,0,2785440
+494,0,2,Hayden 102,2023-03-05 15:24:31,debito,no,0,56530
+495,0,9,Av Javierra Carrera 045,2025-03-14 14:52:29,efectivo,no,0,474150
+496,0,9,Av Javierra Carrera 045,2020-09-19 15:27:31,debito,no,0,79920
+497,0,6,Hayden 102,2020-09-15 12:45:22,debito,si,0,48470
+498,48,8,Hayden 102,2024-10-11 16:04:42,debito,no,10,379503
+499,63,6,Hayden 102,2020-12-16 09:14:04,debito,no,15,2293963
+500,2,9,Pedro Salinas 0295,2020-03-23 13:36:02,debito,no,15,74604

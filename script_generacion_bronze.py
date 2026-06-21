@@ -17,7 +17,7 @@ def generar_datos_clientes(n_clientes: int):
 
 		prefijo = str(fake.random_int(min=9, max=21)).zfill(2) #prefijo para el rut en cierto rango
 		resto_rut = fake.numerify(text=".###.###-")
-		verificador = fake.random_element(elements=("1","2","3","4","5","6","7","8","9","0","k", ""))
+		verificador = fake.random_element(elements=("1","2","3","4","5","6","7","8","9","0","k","","K"))
 		rut_correcto = f"{prefijo}{resto_rut}{verificador}"
 
 		rut_final = fake.random_element(elements=(rut_correcto, 
@@ -40,14 +40,14 @@ def generar_datos_clientes(n_clientes: int):
 		fecha_nacimiento = nacimiento.strftime("%d-%m-%Y")
 
 
-		correo = fake.random_element(elements=(f'{nombre}@gmail.com',f'{nombre}@gmailcom',f'{nombre}gmail.com',f'{nombre}{fake.random_int(min=1, max=10)}@gmail.com'))
-		telefono = fake.random_element(elements=(fake.numerify(text="9########"), fake.numerify(text="+569########"), fake.numerify(text="+56 9########"), fake.numerify(text="+56 9 ########")))
+		correo = fake.random_element(elements=(f'{nombre}@gmail.com',f'{nombre}@gmailcom',f'{nombre}gmail.com',f'{nombre}{fake.random_int(min=1, max=10)}@gmail.com', ""))
+		telefono = fake.random_element(elements=(fake.numerify(text="9########"), fake.numerify(text="+569########"), fake.numerify(text="+56 9########"), fake.numerify(text="+56 9 ########"),""))
 
-		fecha_objeto = fake.date_between(start_date='-4y', end_date='-1y')
+		fecha_objeto = fake.date_between(start_date='-6y', end_date='-1y')
 		fecha_inscripcion = fecha_objeto.strftime("%d-%m-%Y")
 		
 		membresia = fake.random_element(elements=('Basica','basica','basica', 'BASICA','basica','pro','Pro','PRO'))
-		sector_vivienda = fake.random_element(elements=('temuco', 'pedro de valdivia','padre las casas', 'fundo el carmen', 'los conquistadores', 'barrio ingles'))
+		sector_vivienda = fake.random_element(elements=('temuco', 'pedro de valdivia','padre las casas', 'fundo el carmen', 'los conquistadores', 'barrio ingles',""))
 
 		data.append([_id, rut_final, nombre, apellido, genero, fecha_nacimiento, 
 		correo, telefono, fecha_inscripcion, membresia, sector_vivienda])
@@ -121,10 +121,9 @@ def obtener_datos_producto(fake: Faker):
 	
 	codigo = producto_azar['Código']
 	nombre = producto_azar['Nombre del producto']
-	precio = producto_azar['Precio + IVA']
+	precio = producto_azar['Precio venta']
 	cantidad = fake.random_int(min=1, max=15)
 	
-	print(f"Código Azar: {codigo} | Producto: {nombre} | {precio} | Cantidad: {cantidad}")
 	return codigo, nombre, precio, cantidad
 
 
