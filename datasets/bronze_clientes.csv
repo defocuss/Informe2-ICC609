@@ -1,101 +1,101 @@
 id,rut,nombre,apellido,genero,fecha_nacimiento,correo,telefono,fecha_inscripcion,membresia,sector vivienda
-1,12368378-8,jazmin,ledesma,femenino,22-03-1982,,+56967966424,18-04-2022,basica,
-2,09297690-2,BENICIO,bonilla,Hombre,02-02-2000,BENICIO1@gmail.com,,21-10-2024,PRO,fundo el carmen
-3,15758794-1,Alta,Lucero,femenino,28-08-1996,,+56 9 41440885,31-07-2020,basica,barrio ingles
-4,19823340-,Ana,HERRERA,Mujer,08-01-1987,Ana@gmail.com,,19-06-2023,BASICA,temuco
-5,14.887.489-2,LISANDRO,Cárdenas,masculino,07-10-1985,,+56 9 31221784,08-05-2023,Pro,los conquistadores
-6,19538637K,ANABEL,Alvarez,femenino,27-12-1975,ANABELgmail.com,+56942353678,17-06-2023,Pro,padre las casas
-7,188697469,GABRIELA,Aguirre,Femenino,06-03-1992,GABRIELA@gmail.com,952624005,09-06-2023,basica,los conquistadores
-8,180225518,francisca,Retamal,femenino,24-05-1973,francisca7@gmail.com,+56 920341750,28-06-2024,basica,padre las casas
-9,13.397.312-,sebastian,NÚÑEZ,hombre,11-07-1999,sebastiangmail.com,+56 948344165,15-05-2023,basica,barrio ingles
-10,213499890,PATRICIA,CASTILLO,Femenino,25-04-1979,PATRICIA@gmail.com,996464269,16-06-2021,PRO,barrio ingles
-11,09075443-,LAUTARO,Luna,masculino,28-07-2003,LAUTARO6@gmail.com,927938605,27-08-2024,basica,pedro de valdivia
-12,16.120.539-,JOAQUINA,posada,mujer,25-05-1962,JOAQUINA@gmail.com,+56 902401256,25-03-2024,pro,pedro de valdivia
-13,12.641.749-7,CARMEN,molina,Femenino,11-07-1968,CARMEN6@gmail.com,999049007,06-05-2022,basica,temuco
-14,16670314-9,Maria,ROYBAL,Femenino,22-12-1966,Mariagmail.com,972992022,13-12-2021,pro,fundo el carmen
-15,18028121-K,María,MANSILLA,mujer,11-05-2001,María@gmail.com,+56 974945208,04-02-2025,basica,pedro de valdivia
-16,203575408,pilar,RODRIGUEZ,Mujer,03-12-1996,,980362311,20-04-2024,basica,pedro de valdivia
-17,19777519-0,olivia,Herrera,femenino,19-11-1998,olivia@gmail.com,+56942622686,05-05-2021,basica,
-18,13803905-0,Clemente,Donoso,hombre,23-12-1982,Clemente@gmailcom,+56 9 96088893,01-04-2021,basica,pedro de valdivia
-19,18221293-,leonardo,Moraga,masculino,07-09-1967,leonardo@gmail.com,+56 9 72303979,26-07-2023,basica,temuco
-20,15359660,martina,diaz,Mujer,05-09-1990,martina@gmailcom,+56 9 46216307,06-12-2023,PRO,los conquistadores
-21,207826483,EVARISTO,mansilla,Masculino,31-03-1980,EVARISTO5@gmail.com,,21-03-2023,pro,temuco
-22,208863140,MARCO,soto,Hombre,03-02-1982,MARCOgmail.com,+56 931114107,15-04-2021,basica,fundo el carmen
-23,16903103-7,josé,FAJARDO,hombre,01-12-1970,,+56 998679724,17-12-2023,Pro,pedro de valdivia
-24,16.220.492-9,JUAN,CORTEZ,Hombre,04-05-1971,,+56 9 04993102,03-12-2021,Pro,
-25,14683848-8,Amanda,Navarro,Mujer,24-06-1990,Amandagmail.com,+56 963164765,26-02-2021,basica,
-26,10070021K,JUANA,macías,Femenino,23-11-1973,JUANAgmail.com,960064260,26-10-2023,basica,los conquistadores
-27,19034030-4,FABIOLA,GUTIERREZ,Femenino,24-07-1964,,924771580,04-10-2024,pro,padre las casas
-28,21.514.839-8,roberto,BAHENA,hombre,07-05-2004,,,18-01-2021,pro,temuco
-29,207377691,LORENA,LÓPEZ,mujer,15-04-2001,,+56 937240814,11-11-2020,BASICA,los conquistadores
-30,12072945-0,JUAN,Pérez,Masculino,19-06-1982,JUAN7@gmail.com,+56 982971654,07-02-2022,basica,
-31,193624447,Alejandro,cintrón,hombre,12-02-1976,Alejandro7@gmail.com,+56 9 42333596,04-09-2021,PRO,temuco
-32,125750496,Isaac,NEIRA,masculino,25-02-1970,Isaac@gmail.com,961158524,26-12-2023,Pro,barrio ingles
-33,09510882-3,Sergio,muñoz,hombre,31-01-1980,Sergio1@gmail.com,956343445,14-10-2023,basica,fundo el carmen
-34,17088432k,jorge,gomez,hombre,02-12-2001,jorge@gmail.com,+56910994625,03-05-2021,PRO,barrio ingles
-35,19171027-,horacio,RODRÍGUEZ,Hombre,19-01-2004,horacio@gmail.com,,19-10-2020,pro,padre las casas
-36,201346499,miguel,CERVANTES,hombre,19-04-1983,miguel10@gmail.com,+56 9 25796472,05-06-2023,Basica,pedro de valdivia
-37,17062936-3,mitzy,cordoba,femenino,28-09-1995,mitzy1@gmail.com,+56939138349,05-10-2022,PRO,padre las casas
-38,16505826-2,valentin,ortiz,Hombre,17-02-1970,valentin@gmail.com,,13-05-2025,PRO,pedro de valdivia
-39,16263336-,ANDRÉS,del,Masculino,01-09-1993,ANDRÉSgmail.com,+56928549194,18-06-2023,basica,
-40,20459480-9,Valentina,abreu,femenino,24-08-1970,Valentina5@gmail.com,+56 9 00149035,29-01-2023,basica,los conquistadores
-41,13150726-3,María,MELO,Femenino,31-10-1990,,+56928861479,18-07-2020,Pro,fundo el carmen
-42,18.380.503-2,Francisco,castro,hombre,28-07-1977,,+56 995706858,23-02-2025,Pro,temuco
-43,174696659,héctor,girón,Hombre,28-11-1999,héctorgmail.com,+56 979480406,22-02-2023,BASICA,barrio ingles
-44,21159564K,juan,Gutiérrez,masculino,07-04-1967,juan9@gmail.com,917048405,17-07-2022,Pro,barrio ingles
-45,14879759-7,camila,Vela,Mujer,16-08-1995,camila@gmail.com,+56 9 08379973,27-07-2024,Pro,barrio ingles
-46,11.826.822-4,MARCELA,barrios,femenino,06-06-1975,,910074726,22-12-2022,pro,los conquistadores
-47,14878018-0,Miguel,Rojas,Hombre,30-05-1996,Miguel@gmail.com,,08-08-2020,basica,temuco
-48,13021689k,Mariana,palacios,mujer,15-05-1978,Mariana9@gmail.com,,22-11-2022,basica,pedro de valdivia
-49,102795254,Paulina,Molina,Mujer,19-08-1992,Paulina@gmail.com,,05-07-2021,Pro,
-50,10.761.269-5,camilo,Camarillo,hombre,21-10-1974,camilo@gmail.com,,11-03-2023,BASICA,pedro de valdivia
-51,160167244,Amalia,medina,Mujer,16-07-2003,,+56 968015127,17-08-2021,basica,pedro de valdivia
-52,146286979,Leslie,Gomez,femenino,10-03-1984,,,20-04-2021,basica,temuco
-53,154072179,isaac,corona,hombre,03-05-1991,isaac4@gmail.com,+56 9 74061363,15-12-2023,basica,barrio ingles
-54,103849226,Israel,romero,Masculino,13-09-1993,Israel9@gmail.com,937686553,13-07-2020,basica,padre las casas
-55,138358353,andrés,nazario,hombre,24-01-1987,andrés@gmailcom,940656389,11-05-2023,pro,
-56,132397149,Daniel,Sanabria,masculino,17-09-1991,Danielgmail.com,+56 944584042,19-04-2022,BASICA,
-57,196084495,NICOLAS,alvarado,masculino,04-03-1972,NICOLAS9@gmail.com,+56 950039400,10-08-2023,Basica,los conquistadores
-58,216831394,césar,GONZALEZ,hombre,28-07-1975,césar@gmailcom,+56931594422,22-05-2024,Pro,pedro de valdivia
-59,20993566-6,OMAR,Ureña,Masculino,04-05-1984,OMARgmail.com,+56 909631968,25-01-2024,basica,los conquistadores
-60,13397133-6,Caridad,cerda,femenino,19-09-2002,Caridadgmail.com,+56966839876,06-01-2022,PRO,padre las casas
-61,18.652.380-8,ANGELINA,GOMEZ,mujer,17-07-1962,ANGELINAgmail.com,993871704,16-09-2021,PRO,
-62,10486763K,José,Lucero,Masculino,15-04-1997,,+56 925484708,25-12-2022,Basica,barrio ingles
-63,20.218.035-K,germán,CARRASCO,Masculino,23-04-1973,germán2@gmail.com,+56926638527,26-12-2021,pro,padre las casas
-64,19740755-0,lucía,GARRIDO,Mujer,29-09-1988,,+56 9 59852355,25-09-2024,basica,
-65,20.075.052-9,alejandra,RIOS,mujer,04-07-1970,alejandragmail.com,+56956277601,18-04-2021,BASICA,
-66,16.373.553-0,EMMA,GUZMÁN,Mujer,12-11-1968,,973682960,29-06-2023,Pro,fundo el carmen
-67,152736210,ROCÍO,MORALES,mujer,29-09-1986,ROCÍOgmail.com,+56 955880751,07-08-2024,pro,temuco
-68,15.028.937-8,Alberto,Medina,hombre,06-10-1969,Albertogmail.com,+56 9 40806964,13-04-2025,basica,padre las casas
-69,207240617,Luna,Mata,mujer,06-04-1986,Luna3@gmail.com,904877082,02-01-2022,basica,fundo el carmen
-70,111437008,Agustina,Vivanco,femenino,22-01-1965,Agustinagmail.com,+56 9 28396114,26-04-2023,PRO,padre las casas
-71,19914546-1,PATRICIA,AYALA,Mujer,13-10-1994,PATRICIA@gmail.com,+56950824661,12-11-2021,BASICA,
-72,20.561.289-5,NANCY,CALDERÓN,Femenino,13-02-2004,NANCY@gmailcom,+56 9 45559669,21-10-2024,basica,pedro de valdivia
-73,12478806-2,joaquín,pérez,Masculino,19-04-1961,joaquíngmail.com,+56 902067437,03-11-2021,Pro,
-74,16225242-9,Martina,duarte,Femenino,24-09-1975,Martina@gmail.com,+56946740480,05-08-2023,Pro,temuco
-75,10188103-0,ALBERTO,Gonzalez,Hombre,02-09-1971,,968386572,29-06-2022,pro,fundo el carmen
-76,15913544-3,ALEJANDRA,mansilla,Femenino,14-03-1978,,+56911375926,23-03-2023,PRO,barrio ingles
-77,16755854-,MANUEL,Toledo,Masculino,08-08-2003,MANUEL10@gmail.com,+56942270452,29-01-2021,Pro,los conquistadores
-78,217694598,Facundo,perez,Hombre,26-06-1986,Facundogmail.com,+56 963541931,08-05-2021,basica,fundo el carmen
-79,14942935K,Alfonsina,CASTAÑEDA,Mujer,01-06-1961,Alfonsina1@gmail.com,910275119,30-08-2022,basica,temuco
-80,197592236,karina,VARGAS,mujer,15-09-1993,karina@gmail.com,934874402,06-10-2021,Pro,pedro de valdivia
-81,20.605.922-8,Antonia,RODRIGUEZ,femenino,21-11-1999,Antonia2@gmail.com,+56 9 28310344,15-07-2024,Basica,los conquistadores
-82,10205982-8,Martina,MARTINEZ,Femenino,30-07-1988,Martina4@gmail.com,+56 919596426,18-06-2021,BASICA,temuco
-83,16271215,lucas,BENÍTEZ,Masculino,10-06-1976,lucas10@gmail.com,938210571,07-05-2021,basica,pedro de valdivia
-84,216135570,Magaly,Gonzalez,Mujer,06-07-1993,Magalygmail.com,+56920015650,07-10-2022,Pro,los conquistadores
-85,20916144-k,luis,Valentín,masculino,22-05-1978,,+56914555245,20-06-2024,PRO,pedro de valdivia
-86,19.790.054-0,Andrés,maldonado,masculino,20-12-1985,Andrés@gmailcom,+56 987969679,30-01-2021,basica,barrio ingles
-87,14.594.132-3,SOFÍA,Osorio,Femenino,13-12-2002,SOFÍA@gmailcom,,17-06-2024,Basica,temuco
-88,09.653.578-3,javier,Gimenez,hombre,10-11-1972,javiergmail.com,+56 9 87078488,16-11-2024,Pro,pedro de valdivia
-89,21.396.251-4,Abigail,Vidal,femenino,14-06-1977,Abigail@gmailcom,,04-06-2025,Pro,padre las casas
-90,14547980-5,TOMAS,Olivárez,Masculino,15-08-1982,,+56 9 33857119,28-05-2025,Basica,temuco
-91,09581681,jeremias,VALENTÍN,masculino,13-09-1987,jeremias2@gmail.com,,22-05-2021,Pro,temuco
-92,177151195,Fernanda,suarez,mujer,08-04-1968,,918810607,27-08-2021,pro,barrio ingles
-93,18064085-7,Nicolas,farías,hombre,20-10-1982,,,21-10-2024,basica,los conquistadores
-94,10880086-K,Mateo,GOMEZ,masculino,11-02-1963,Mateo1@gmail.com,+56961512895,11-07-2023,Basica,
-95,10770579-6,LUCIA,gálvez,Mujer,25-10-1998,LUCIA2@gmail.com,,01-08-2023,basica,barrio ingles
-96,10234193k,TERESA,ferreyra,Femenino,09-10-1983,TERESA3@gmail.com,+56964028226,14-09-2020,BASICA,temuco
-97,173223513,serafín,ríos,masculino,23-01-1979,serafíngmail.com,+56982371000,03-03-2021,pro,
-98,11732961-9,ARCELIA,Velázquez,mujer,14-10-1963,ARCELIA@gmail.com,+56 9 14629171,25-09-2024,basica,
-99,09853213-,Juan,vásquez,hombre,13-12-1960,,+56 9 52787077,26-06-2021,basica,los conquistadores
-100,142473668,Francesca,Soliz,femenino,07-09-2000,,,16-12-2021,Basica,fundo el carmen
+1,10.942.450-3,juan,CORTÉS,masculino,10-09-1996,juangmail.com,+56 9 32725604,20-01-2022,basica,fundo el carmen
+2,139020460,ALFREDO,DIAZ,hombre,16-10-1995,ALFREDO@gmailcom,+56976203322,25-01-2022,basica,los conquistadores
+3,157339935,MARÍA,Caldera,femenino,19-01-2000,,926323261,19-02-2024,Pro,
+4,16.605.866-2,Constanza,DIAZ,mujer,27-07-1978,Constanza@gmail.com,+56 9 03101144,09-12-2021,BASICA,los conquistadores
+5,12.638.517-9,paula,DÍAZ,femenino,26-02-1990,,918565781,02-04-2023,BASICA,temuco
+6,21555951-6,GONZALO,Razo,hombre,13-06-1980,,,05-01-2021,basica,barrio ingles
+7,10.880.418-2,BERNARDO,GIMENEZ,hombre,05-10-1991,BERNARDO9@gmail.com,+56 9 34380913,20-12-2023,basica,padre las casas
+8,16451205-7,Sara,Cintrón,mujer,19-03-1967,Sara@gmail.com,+56 909344364,09-10-2021,Pro,barrio ingles
+9,14.766.719-4,constanza,NÚÑEZ,mujer,16-01-1993,constanza5@gmail.com,+56928773231,22-01-2023,Pro,padre las casas
+10,19298503-3,maría,hurtado,femenino,29-12-1993,maría@gmailcom,978693582,07-01-2022,PRO,padre las casas
+11,18.260.817-4,emma,Flores,femenino,16-09-1961,emmagmail.com,,15-12-2022,BASICA,los conquistadores
+12,21942002-5,LAUTARO,Campos,masculino,25-08-1982,LAUTARO@gmail.com,+56 9 79067160,17-01-2023,Basica,padre las casas
+13,099245307,úrsula,hernández,Femenino,09-01-1999,,+56968841852,12-10-2022,pro,fundo el carmen
+14,20.069.142-0,VALENTINO,juarez,hombre,30-01-1997,VALENTINO@gmailcom,+56 9 67891095,21-06-2024,BASICA,temuco
+15,135509648,pilar,SANCHEZ,Femenino,13-09-1967,pilargmail.com,+56965197960,10-03-2021,BASICA,fundo el carmen
+16,21.371.605-2,Santiago,Godoy,masculino,23-03-1980,Santiago@gmailcom,,27-02-2025,PRO,padre las casas
+17,09990520-5,EDITA,Morales,femenino,04-11-1995,,,03-09-2022,Pro,padre las casas
+18,184630311,MORENA,soria,mujer,03-07-1968,MORENA1@gmail.com,983607500,04-03-2024,BASICA,temuco
+19,18393661-5,mateo,Benitez,Masculino,02-04-1961,mateo@gmailcom,+56 9 36799420,27-06-2021,Pro,padre las casas
+20,09.196.428-1,FRANCO,hernández,hombre,21-06-1979,FRANCO@gmailcom,,07-04-2023,Pro,los conquistadores
+21,15.809.231-k,MARÍA,RIVEROS,Femenino,11-12-1992,MARÍAgmail.com,+56 965758594,27-02-2023,pro,fundo el carmen
+22,191781401,martina,bustos,Mujer,10-11-1963,,+56 9 71487286,03-12-2022,BASICA,temuco
+23,141351695,Paola,SUAREZ,Mujer,12-09-1982,Paola@gmailcom,+56 9 24247335,10-04-2023,Basica,barrio ingles
+24,21980199-8,andrés,Guzman,hombre,25-10-1995,andrésgmail.com,+56915910244,27-07-2021,pro,los conquistadores
+25,156622878,Camila,muñoz,femenino,13-09-1987,Camila@gmailcom,,28-01-2024,basica,
+26,18566604-0,Renata,PIÑA,mujer,03-11-1982,,+56 923842906,16-09-2020,basica,padre las casas
+27,17.621.273-1,DIEGO,MACHUCA,hombre,01-10-1988,,+56 9 94874404,06-02-2024,Pro,temuco
+28,15.805.110-6,nelly,LABOY,Mujer,27-01-1964,nelly@gmailcom,+56996998638,18-12-2022,Pro,barrio ingles
+29,20098271-5,PORFIRIO,Alejandro,hombre,30-06-1966,PORFIRIO@gmail.com,+56 9 37381516,19-06-2025,Basica,padre las casas
+30,17.708.356-2,Pablo,Pereira,masculino,06-06-2000,Pablogmail.com,942154743,21-04-2025,pro,
+31,13.696.741-2,vicente,arenas,masculino,11-08-1974,vicente@gmail.com,+56 905723565,03-08-2023,BASICA,temuco
+32,13.616.402-6,Timoteo,Guajardo,Hombre,17-04-1993,,961049870,29-11-2024,pro,barrio ingles
+33,17812281k,Uma,Jaque,Femenino,10-09-1967,Uma4@gmail.com,991554664,29-11-2020,basica,padre las casas
+34,14996583-8,Gonzalo,hormazábal,hombre,16-09-1976,,,29-08-2021,Basica,temuco
+35,09.690.892-9,Sara,PEREA,Mujer,07-03-1986,,907551152,01-03-2025,PRO,
+36,162162242,THIAGO,ROMERO,Hombre,02-01-1992,THIAGO@gmailcom,+56 929699106,11-03-2025,basica,pedro de valdivia
+37,10.691.375-2,jonás,fernandez,hombre,05-05-1998,jonás@gmail.com,+56903249243,28-07-2023,BASICA,fundo el carmen
+38,14070103k,Sofía,SANTACRUZ,mujer,09-08-1968,,940838006,26-03-2025,BASICA,fundo el carmen
+39,18672085-K,Agustina,RUIZ,Femenino,03-03-1987,Agustina@gmail.com,,20-10-2023,BASICA,barrio ingles
+40,205169834,MARTINA,GONZALEZ,femenino,19-11-2002,MARTINA@gmail.com,994265246,02-12-2024,BASICA,fundo el carmen
+41,152313799,MARÍA,BENITEZ,femenino,04-06-1977,MARÍA@gmailcom,+56 9 66872521,01-06-2022,pro,padre las casas
+42,10216219-1,GABRIELA,Fernandez,mujer,23-05-1969,GABRIELAgmail.com,908977624,27-02-2022,basica,los conquistadores
+43,127679107,EMILIO,ESPINOZA,masculino,21-06-1992,EMILIO@gmail.com,+56 923640365,08-10-2024,basica,padre las casas
+44,17.259.347-5,DANIEL,urra,Masculino,05-04-2001,DANIELgmail.com,,18-01-2021,Pro,padre las casas
+45,14303131-5,fernando,Guevara,Hombre,13-11-1989,fernando3@gmail.com,+56 936339457,24-01-2023,Pro,fundo el carmen
+46,15943789-9,Valentin,garcía,masculino,22-11-1965,Valentin@gmail.com,911239929,02-06-2025,Basica,pedro de valdivia
+47,14.523.937-3,Jazmin,Covarrubias,Femenino,10-10-1963,,+56 971468320,08-10-2022,Pro,los conquistadores
+48,194437760,SEBASTIÁN,Marín,Masculino,13-05-2004,SEBASTIÁNgmail.com,900133100,08-10-2022,PRO,barrio ingles
+49,175012250,adán,araya,masculino,01-07-1988,adán@gmailcom,+56 9 75430490,05-10-2022,basica,
+50,09.659.439-K,catalina,Alfaro,Mujer,07-07-1988,catalinagmail.com,,13-11-2020,Basica,temuco
+51,17.080.102-8,cristobal,Fuentes,Masculino,10-03-1971,cristobal@gmail.com,+56922581668,24-12-2023,Basica,barrio ingles
+52,09152644-7,damián,NAVARRO,hombre,15-12-1985,damián9@gmail.com,+56 940500402,23-10-2022,basica,los conquistadores
+53,18861752-k,virginia,GALLEGOS,mujer,20-03-1983,virginia@gmail.com,992774615,13-09-2022,pro,padre las casas
+54,11115612-7,RAFAÉL,ACOSTA,hombre,28-05-1978,RAFAÉL3@gmail.com,+56929687906,12-10-2024,Basica,temuco
+55,102660006,natalia,Cabrera,femenino,24-12-1973,natalia9@gmail.com,,05-06-2025,basica,pedro de valdivia
+56,19.086.232-1,raúl,ARAYA,hombre,24-01-1968,raúl5@gmail.com,+56 947207640,14-07-2023,basica,barrio ingles
+57,15755263-3,MAITE,ruiz,mujer,29-09-1999,,+56 945011886,02-11-2024,pro,barrio ingles
+58,12.777.820-2,MARÍA,cabrera,Mujer,26-03-1978,MARÍA@gmailcom,979270184,29-04-2021,PRO,pedro de valdivia
+59,21.291.437-5,SOFIA,MEDINA,Mujer,27-02-1976,SOFIA@gmail.com,+56 9 71648188,30-06-2021,PRO,padre las casas
+60,133478209,marcos,BUSTOS,masculino,22-07-2003,marcos4@gmail.com,,27-12-2024,Basica,pedro de valdivia
+61,20.770.108-5,GENARO,Alba,Masculino,19-01-1970,GENARO@gmail.com,,12-03-2025,PRO,
+62,095647968,Martina,ALFARO,mujer,02-06-1987,Martinagmail.com,980061813,22-02-2025,Pro,los conquistadores
+63,15.389.034-4,ORLANDO,romero,masculino,05-12-1999,ORLANDO@gmail.com,,19-08-2024,Pro,fundo el carmen
+64,117501308,macarena,MUÑOZ,femenino,27-04-1987,macarena@gmail.com,+56983367158,03-06-2024,pro,
+65,18.558.673-5,Claudia,barrios,femenino,27-09-1978,Claudia@gmailcom,,29-08-2024,Pro,padre las casas
+66,16857285-K,MATEO,RAMÓN,hombre,03-02-1981,MATEOgmail.com,+56 976238012,03-03-2021,Pro,pedro de valdivia
+67,14.197.359-3,TERESA,GONZALEZ,Femenino,06-05-1987,,,26-03-2021,basica,barrio ingles
+68,124930794,josé,Soto,masculino,04-03-1981,josé7@gmail.com,+56 926055252,12-12-2021,BASICA,temuco
+69,17710805K,andrea,feliciano,Mujer,22-04-1991,andrea9@gmail.com,+56979582137,27-12-2020,pro,pedro de valdivia
+70,193927263,PEDRO,burgos,Masculino,06-07-1992,,+56 9 62604835,26-04-2023,BASICA,fundo el carmen
+71,206166698,rosalia,TORO,mujer,09-03-2004,rosalia2@gmail.com,+56 992576541,26-11-2024,Pro,padre las casas
+72,16.763.172-9,Alvaro,Coronel,Hombre,26-04-2002,Alvaro@gmailcom,+56 928868781,20-11-2021,pro,
+73,12578088-7,felipe,diaz,Hombre,29-08-1968,,975068557,24-12-2020,basica,temuco
+74,20.387.231-2,Rodolfo,ESPINO,Hombre,06-09-1986,Rodolfo@gmailcom,932930316,21-06-2023,PRO,pedro de valdivia
+75,17998878-9,alonso,Moncada,masculino,30-11-1999,alonso@gmail.com,+56948018966,18-08-2022,Basica,barrio ingles
+76,19.224.904-3,igor,Alvarez,Hombre,02-09-1987,igor@gmail.com,+56932869745,02-08-2020,Pro,temuco
+77,145234324,Joaquin,Orozco,Masculino,12-05-1961,Joaquingmail.com,,19-06-2021,Basica,pedro de valdivia
+78,14.887.206-7,Eugenio,montez,hombre,17-06-1965,Eugenio@gmail.com,+56 9 96555300,21-10-2020,PRO,temuco
+79,10328858-4,SABINA,Herrera,femenino,22-01-2003,,+56 9 66791948,19-12-2021,basica,
+80,14845954k,luis,Ramirez,hombre,12-08-1973,luis2@gmail.com,,03-03-2022,PRO,los conquistadores
+81,16.954.146-4,JOSÉ,GÁLVEZ,Hombre,06-05-1968,JOSÉ@gmailcom,+56969820641,18-11-2024,PRO,pedro de valdivia
+82,18139623-4,priscila,aguirre,Femenino,15-12-1974,priscilagmail.com,+56 9 30431150,11-07-2022,basica,temuco
+83,211071177,Luis,Abarca,hombre,08-05-2002,Luis@gmail.com,+56 951249199,29-09-2024,Basica,
+84,130087694,jonás,DONOSO,hombre,07-05-1988,jonásgmail.com,+56 948963336,27-02-2022,basica,pedro de valdivia
+85,13899191-2,Yolanda,CARVAJAL,mujer,15-08-1962,,913586678,13-06-2025,pro,temuco
+86,154911458,Valentina,fernandez,mujer,24-01-1969,Valentinagmail.com,,23-11-2024,Basica,temuco
+87,13.423.506-k,Tomàs,cazares,Masculino,17-05-1978,Tomàs@gmail.com,+56 9 75191916,09-08-2023,Pro,los conquistadores
+88,16077340-9,Thiago,mondaca,Hombre,16-01-1999,Thiago7@gmail.com,963557733,31-08-2021,basica,temuco
+89,17599339-8,PEDRO,Vera,hombre,05-07-1961,PEDRO@gmailcom,+56934673902,18-03-2021,basica,fundo el carmen
+90,16542307-k,Gilberto,Sepúlveda,hombre,27-09-1970,Gilbertogmail.com,960492595,10-01-2022,BASICA,
+91,11.888.724-9,CAMILO,RODRIGUEZ,Hombre,30-04-2002,CAMILO@gmailcom,914726117,27-04-2025,basica,
+92,189676786,Salvador,Peralta,Hombre,02-04-2003,,+56931497078,22-10-2022,basica,barrio ingles
+93,126425883,ana,fernandez,Mujer,19-08-1996,ana2@gmail.com,,22-07-2021,BASICA,barrio ingles
+94,12205647-5,Salvador,gonzález,Masculino,12-04-2003,Salvador1@gmail.com,+56970936312,13-12-2023,basica,barrio ingles
+95,18.302.492-7,JUAN,Moyano,masculino,05-09-1975,JUAN6@gmail.com,+56 9 24658572,04-05-2022,BASICA,los conquistadores
+96,15.312.093-1,DORIS,Villalba,femenino,29-01-1998,DORISgmail.com,+56 9 45269441,16-09-2023,PRO,barrio ingles
+97,12675169-1,ÁMBAR,Venegas,mujer,17-02-1976,ÁMBAR5@gmail.com,+56 9 48236200,05-12-2024,pro,barrio ingles
+98,14.170.188-7,catalina,OQUENDO,Femenino,25-01-1992,catalinagmail.com,,17-11-2020,PRO,fundo el carmen
+99,21420643-7,fidel,GRIEGO,Masculino,01-07-1981,fidel@gmail.com,,07-09-2020,Basica,los conquistadores
+100,208261881,liliana,ramírez,Femenino,16-08-1998,liliana@gmail.com,+56 9 89874155,05-09-2022,Pro,padre las casas

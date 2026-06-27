@@ -17,7 +17,7 @@ def generar_datos_clientes(n_clientes: int):
 
 		prefijo = str(fake.random_int(min=9, max=21)).zfill(2) #prefijo para el rut en cierto rango
 		resto_rut = fake.numerify(text=".###.###-")
-		verificador = fake.random_element(elements=("1","2","3","4","5","6","7","8","9","0","k","","K"))
+		verificador = fake.random_element(elements=("1","2","3","4","5","6","7","8","9","0","k","K"))
 		rut_correcto = f"{prefijo}{resto_rut}{verificador}"
 
 		rut_final = fake.random_element(elements=(rut_correcto, 
